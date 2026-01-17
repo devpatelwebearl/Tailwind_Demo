@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&family=Outfit:wght@100..900&family=Poppins&display=swap');
+@import "tailwindcss";
+@theme {
+    --font-poppins:"Poppins", sans-serif;
+    /* --text-headingsize:50px; */
+}
